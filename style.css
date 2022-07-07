@@ -1,0 +1,33 @@
+body {
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.heading {
+    text-align: center;
+    position: relative;
+}
+
+.heading img {
+    width: 100%;
+}
+
+.text1 {
+    color: white;
+    position: absolute;
+    top: 150px;
+    left: 90px;
+    bottom: 60px;
+}
+
+a {
+    color: white;
+    background-color: rgb(238, 114, 92);
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-weight: 700;
+}

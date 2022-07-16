@@ -90,3 +90,18 @@ h3 {
     padding: 15px;
     border-radius: 7px;
 }
+
+.dflex {
+    display: flex;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+.wp img {
+    width: 100%;
+}
+
+.wp {
+    width: 50%;
+    padding-left: 2px;
+}
